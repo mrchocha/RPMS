@@ -9,7 +9,7 @@ RPMS is management system that stores and manages researh work in univeersity. M
 5. Comment ⟶ user can comment/replay on comment on other works.
 6. user profile ⟶ user can see his/her all previously added works add add new work as well.
 
-# Tools Used
+# Technologies Used
 1. React-js V16.0 and above
 2. Node-js V12.18.2 and above
 3. HTML
