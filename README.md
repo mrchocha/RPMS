@@ -1,4 +1,4 @@
-# RPMS
+# RPMS - Research Paper Management System
 RPMS is management system that stores and manages researh work in univeersity. Many usersity doesn't have proper palce/portel maintain researchers data so here comes RPMS to solve that.it has facility to add,update or delete work and also it catarises the use based on school as well as student/professor to maintain reachability. search option works very well for search using tags so no need to worry about proper words. 
 
 # Key-Features
