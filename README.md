@@ -10,19 +10,26 @@ RPMS is management system that stores and manages researh work in univeersity. M
 6. user profile ⟶ user can see his/her all previously added works add add new work as well.
 
 # Technologies Used
-1. React-js V16.0 and above
-2. Node-js V12.18.2 and above
+1. React-js V16.0 and above [link](https://reactjs.org/)
+2. Node-js V12.18.2 and above [link](https://nodejs.org/en/download/)
 3. HTML
 4. CSS
-5. PostgreSQL
+5. PostgreSQL [link](https://www.postgresql.org/download/)
+6. pgAdmin4 [link](https://www.pgadmin.org/download/)
+7. Bootstrap [link](https://getbootstrap.com/)
 
 # How to Install
 make sure you have `nodejs`,`npm` and `pgadmin4` are installed in your desktop. if alredy installed then
 using git download clone from github by command
 ```
 git clone https://github.com/mrchocha/RPMS.git
+cd RPMS
+cd frontend
 ```
-now extract `zip` file and go to the folder inside.
+now Build all the modules from package.json
+```
+npm install --save
+```
 now simply run the command to start project
 ```
 npm start
