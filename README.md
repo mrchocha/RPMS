@@ -28,4 +28,6 @@ now simply run the command to start project
 npm start
 ``` 
 
+For deeper understanding, you can always visit the doc file [here](https://drive.google.com/file/d/1xeetWfyRp_umNjHwcabbuGNW_B5PXvQc/view?usp=sharing)
+
 Enjoy happy coding :)
