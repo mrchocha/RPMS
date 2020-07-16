@@ -229,7 +229,7 @@ class App extends Component {
               <li>Moblie: +91-9925122579</li>
               <li>
                 Email:{" "}
-                <a href="mailto:jeet.k@ahduni.edu.in">rahul.c@ahduni.edu.in</a>
+                <a href="mailto:jeet.k@ahduni.edu.in">jeet.k@ahduni.edu.in</a>
               </li>
               <li>
                 Github: <a href="https://github.com/JeetKaria06">JeetKaria06</a>
