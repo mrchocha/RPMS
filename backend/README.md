@@ -13,6 +13,8 @@ Listening on PORT 5000
 ```
 then your runtime environment is set up and is working fine.
 
-# Backend Entity Connections
+# Entity Relationship Diagram
 
 ![Output1](https://github.com/mrchocha/RPMS/blob/master/backend/images/ER_Diag_RPMS%20(2).png)
+
+You can explore more about the entities [here](https://drive.google.com/file/d/1xeetWfyRp_umNjHwcabbuGNW_B5PXvQc/view)
