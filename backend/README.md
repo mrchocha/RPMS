@@ -12,3 +12,7 @@ And if output is
 Listening on PORT 5000
 ```
 then your runtime environment is set up and is working fine.
+
+# Backend Entity Connections
+
+![Output1](https://github.com/mrchocha/RPMS/blob/master/backend/images/ER_Diag_RPMS%20(2).png)
