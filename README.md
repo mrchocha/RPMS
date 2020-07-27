@@ -19,22 +19,21 @@ RPMS is management system that stores and manages researh work in univeersity. M
 7. Bootstrap [link](https://getbootstrap.com/)
 
 # How to Install
-make sure you have `nodejs`,`npm` and `pgadmin4` are installed in your desktop. if alredy installed then
-using git download clone from github by command
+make sure you have `nodejs`,`npm` and `pgadmin4` are installed in your desktop. If already installed then
+clone the repository using below command
 ```
 git clone https://github.com/mrchocha/RPMS.git
 cd RPMS
 cd frontend
 ```
-now Build all the modules from package.json
+now build all the modules from package.json
 ```
 npm install --save
 ```
-now simply run the command to start project
+Run below to start the frontend part of the project
 ```
 npm start
 ``` 
 
 For deeper understanding, you can always visit the doc file [here](https://drive.google.com/file/d/1xeetWfyRp_umNjHwcabbuGNW_B5PXvQc/view?usp=sharing)
 
-Enjoy happy coding :)
