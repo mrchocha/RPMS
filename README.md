@@ -1,13 +1,13 @@
 # RPMS - Research Paper Management System
-RPMS is management system that stores and manages researh work in univeersity. Many usersity doesn't have proper palce/portel maintain researchers data so here comes RPMS to solve that.it has facility to add,update or delete work and also it catarises the use based on school as well as student/professor to maintain reachability. search option works very well for search using tags so no need to worry about proper words. 
+RPMS is management system that stores and manages researh work in university. Many university doesn't have proper portal to maintain research paper's data, so this can fill that gap. It has facility to add your work and it also categorise the paper on the basis of School, Domain of the paper and one can also to maintain its reachability in different schools with students or professors. One can also search the paper based on the paper domain. 
 
 # Key Features
-1. Add research ⟶ add work related to research paper and it's related details like contributors,conferences attended, related tags etc.
-2. Search ⟶ search using tags i.e. AI+ML
-3. User reachability ⟶ user is able to set reachability of viewer i.e only School of Engineering and Applied Science student can see the paper.
+1. Add research ⟶ add work related to research paper and it's related details like paper details, details of conferences attended, paper domains, reference papers.
+2. Search ⟶ search using tags i.e. AI+ML (Add '+' sign in case of multiple tags)
+3. Paper reachability ⟶ user is able to set reachability of the paper i.e. between different departments and student/professor or both of particular department.
 4. View History ⟶ user can view his/her history.
-5. Comment ⟶ user can comment/replay on comment on other works.
-6. user profile ⟶ user can see his/her all previously added works add add new work as well.
+5. Comment ⟶ user can comment on one's paper.
+6. User profile ⟶ user can see his/her all previously added works add add new work as well.
 
 # Technologies Used
 1. React-js V16.0 and above [ [Link](https://reactjs.org/) ]
