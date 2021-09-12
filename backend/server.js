@@ -10,7 +10,7 @@ const PORT = 5000;
 
 let pool = new pg.Pool({
     port: 3306,
-    password: 'Jeet@2000',
+    password: 'secret',
     database: 'postgres',
     user: 'postgres'
 });
